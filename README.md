@@ -1,0 +1,1 @@
+This is CoastTheMost first git project
